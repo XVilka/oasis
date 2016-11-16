@@ -1,11 +1,11 @@
 opam-version: "1.2"
 name: "oasis"
-version: "0.4.8~HEAD-2016-11-15-7"
+version: "0.4.8~HEAD-2016-11-16-8"
 maintainer: "Sylvain Le Gall <sylvain@le-gall.net>"
 authors: [ "Sylvain Le Gall" ]
 license: "LGPL-2.1 with OCaml linking exception"
 homepage: "http://oasis.forge.ocamlcore.org/"
-dev-repo: "git://github.com/ocaml/oasis.git"
+dev-repo: "git://github.com/ocaml/oasis.git#opam/testing"
 bug-reports: "http://oasis.forge.ocamlcore.org/"
 build: [
   ["ocaml" "setup.ml" "-configure" "--prefix" prefix]
