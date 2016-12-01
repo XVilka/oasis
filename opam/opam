@@ -1,6 +1,6 @@
 opam-version: "1.2"
 name: "oasis"
-version: "0.4.8~HEAD-2016-11-30-15"
+version: "0.4.8~HEAD-2016-12-01-16"
 maintainer: "Sylvain Le Gall <sylvain@le-gall.net>"
 authors: [ "Sylvain Le Gall" ]
 license: "LGPL-2.1 with OCaml linking exception"
