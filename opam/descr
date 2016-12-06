@@ -19,5 +19,5 @@ internal configure/install scheme. Libraries are managed through
 findlib. It has been tested on GNU Linux and Windows.
 It also allows to have standard entry points and description. It helps
 to integrates your libraries and software with third parties tools
-like GODI.
+like OPAM.
 
